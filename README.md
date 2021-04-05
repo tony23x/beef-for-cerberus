@@ -30,11 +30,11 @@
 
 <h1><img src="https://i.ibb.co/8d71xfm/d92st7e-80156788-7d49-48e4-9cfe-8d7b63ce8b12.gif" width="80">Características:</h1>
 
- * <b>Funcionalidad</b>: 2 plantillas disponibles por ahora
+ * <b>Funcionalidad</b>: 3 opciones disponibles para mejores resultados
 
  * <b>Ngrok</b>: El arhivo install.sh instalará automáticamente ngrok en cualquier arquitectura 
 
- * <b>Idioma</b>: Todas las plantillas en español
+ * <b>Idioma</b>: Todas las plantillas en español y editables
 
 <hr>
 
@@ -70,7 +70,7 @@
 
 ```sh
 
-    python3 cerberus.py -p (PORT)
+    python3 cerberus.py -pN (port ngrok) -pB (port BeEF)
 
 ```
 
@@ -126,7 +126,7 @@ https://github.com/error404-notfound
 
 [version]: https://img.shields.io/badge/Version-BETA%3A%20V.2.0-orange
 
-[tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20ReadOS-blue
+[tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20Termux-blue
 
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
 
