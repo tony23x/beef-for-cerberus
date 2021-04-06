@@ -108,7 +108,7 @@
 # Aviso:
 
 * _¡En esta Beta por el momento ya está disponible el uso de cualquier puerto!_
-* _La herramienta es de paga, por una pequeña única cuota, esto con el fin de retribuir y apoyar el trabajo_😃
+* _La herramienta es de paga, por una pequeña única cuota, esto con el fin de retribuir y apoyar el trabajo_ 😃
 * _¡Espero os gute y sea bien usada!_
 
 # GitHub:
