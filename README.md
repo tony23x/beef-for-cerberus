@@ -5,16 +5,11 @@
 <br><hr>
 
 ![version]
-
 ![Tested]
-
 ![autor]
-
 ![main]
 
-![li]
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
+[![paga](https://img.shields.io/badge/Compra-Aquí-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
 <h2 align="center"> Herramienta para automatizar BeEF fuera de LAN! </h3>
 
@@ -104,7 +99,7 @@
 
 <img src="#" alt="PREVIEW"  align="center">
 
-## ReadOS
+## Termux
 
 <img src="#" alt="PREVIEW"  align="center">
 
@@ -113,7 +108,7 @@
 # Aviso:
 
 * _¡En esta Beta por el momento ya está disponible el uso de cualquier puerto!_
-* _La herramienta es de paga, por una pequeña única cuota, esto con el fin de retribuir y apoyar el trabajo 😃_
+* _La herramienta es de paga, por una pequeña única cuota, esto con el fin de retribuir y apoyar el trabajo_😃
 * _¡Espero os gute y sea bien usada!_
 
 # GitHub:
@@ -124,15 +119,10 @@ https://github.com/error404-notfound
 
 <!-- MarkDown Links & Images -->
 
-[version]: https://img.shields.io/badge/Version-BETA%3A%20V.2.0-orange
+[version]: https://img.shields.io/badge/Version-BETA%3A%20V.3.0-orange
 
 [tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20Termux-blue
 
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
 
 [main]: https://img.shields.io/badge/Maintainer-%40Kedap-yellow
-
-[li]: https://img.shields.io/badge/license-MIT-blue.svg
-
-
-
