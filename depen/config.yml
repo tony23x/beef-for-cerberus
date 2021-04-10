@@ -1,0 +1,7 @@
+tunnels:
+  vic:
+     addr: 80
+     proto: http
+  beef:
+     addr: 3000
+     proto: http
