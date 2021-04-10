@@ -100,7 +100,7 @@ https://github.com/error404-notfound
 
 <!-- MarkDown Links & Images -->
 
-[version]: https://img.shields.io/badge/Version-BETA%3A%20V.3.0-orange
+[version]: https://img.shields.io/badge/Version-BETA%3A%20V.4.0-orange
 
 [tested]: https://img.shields.io/badge/Tested-Kali%20Linux%20%7C%20Parrot%20Sec%20%7C%20Arch%20Linux%20%7C%20Termux-blue
 
