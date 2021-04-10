@@ -25,11 +25,18 @@
 
 <h1><img src="https://i.ibb.co/8d71xfm/d92st7e-80156788-7d49-48e4-9cfe-8d7b63ce8b12.gif" width="80">Características:</h1>
 
- * <b>Funcionalidad</b>: 3 opciones disponibles para mejores resultados
+ * <b>Funcionalidad</b>: 4 plantillas disponibles para mejores resultados
 
  * <b>Ngrok</b>: El arhivo install.sh instalará automáticamente ngrok en cualquier arquitectura 
+  
+ * <b>Ing. Social</b>: Modulo completo de Ing. Social para las plantillas por defecto 
+ 
+ * <b>Acortador</b>: Acortador personalizable para suplantar automaticamente la URL de la victima 
 
  * <b>Idioma</b>: Todas las plantillas en español y editables
+
+* _¡En esta Beta por el momento ya está disponible el uso de cualquier puerto de ngrok a la vez!_
+* _¡Espero os gute y sea bien usada!_
 
 <hr>
 
@@ -87,10 +94,6 @@
 
 <hr>
 
-# Aviso:
-
-* _¡En esta Beta por el momento ya está disponible el uso de cualquier puerto!_
-* _¡Espero os gute y sea bien usada!_
 
 # GitHub:
 
