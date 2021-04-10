@@ -33,7 +33,7 @@
 
 <hr>
 
-# Install on Debian-based:
+# Install:
 
 * _Puedes clonarlo en el directorio que quieras:_
 
@@ -66,24 +66,6 @@
 ```sh
 
     python3 cerberus.py -pN (port ngrok) -pB (port BeEF)
-
-```
-
-# Install on Arch-based:
-
-* _Instala desde AUR:_
-
-```sh
-
-   yay -S beef-cerberus-git
-
-```
-
-* _Finalmente ejecuta el script:_
-
-```sh
-
-    beef-cerberus
 
 ```
 
