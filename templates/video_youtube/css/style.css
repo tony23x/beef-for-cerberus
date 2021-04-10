@@ -1,0 +1,104 @@
+body {
+background:
+    linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px,
+    linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px),
+    linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+    background-color:#e1ebbd;
+    background-size: 128px 128px;
+}
+
+.video-lista::-webkit-scrollbar {
+    width: 5px;
+}
+.video-lista::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+.video-lista::-webkit-scrollbar-thumb {
+/*  background-color: darkgrey;*/
+  outline: 1px solid slategrey;
+}
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 0;
+	height: 0;
+	overflow: hidden;
+}
+.video-container iframe,
+.video-container object {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.contenedor {
+	max-width: 1300px;
+}
+.video-galeria {
+	width: 100%;
+	overflow: hidden;
+}
+.video-ver {
+	float: left;
+	width: 70%;
+}
+.video-lista {
+	float: left;
+    width: 30%;
+    overflow: auto;
+}
+.video-lista ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.video-lista ul li {
+	margin: 0 4px 4px 4px;
+	position: relative;
+}
+.video-lista ul li img {
+	width: 100%;
+}
+.video-lista ul li span {
+	font-family: sans-serif;
+    position: absolute;
+    z-index: 9;
+    color: #fff;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 13px;
+    background: #000;
+    padding: 4px 8px;
+}
+.video-lista ul li img:hover {
+	cursor: pointer;
+}
+
+
+@media all and (max-width: 1080px) {
+
+.video-ver,
+.video-lista {
+	width: 100%;
+}
+.video-lista ul li {
+	width: 49.3%;
+    float: left;
+    margin: 4px 4px 4px 0;
+}
+.video-lista ul li:nth-child(2n) {
+    margin: 4px 0 !important;
+}
+.video-lista {
+	height: auto !important;
+}
+.video-lista ul li span {
+	text-overflow:ellipsis;
+	white-space:nowrap; 
+	overflow:hidden; 
+	font-size: 12px;
+}
+
+}

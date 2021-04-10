@@ -1,0 +1,28 @@
+{
+    "templates": [
+        {
+            "name": "BeEF Default",
+            "dir_name": "demo_beef",
+            "module": false,
+            "import_file": null
+        },
+        {
+            "name": "IG Lana Rhoades",
+            "dir_name": "ig_lana",
+            "module": false,
+            "import_file": null
+        },
+        {
+            "name": "Billie Eillish",
+            "dir_name": "billie",
+            "module": false,
+            "import_file": null
+        },
+        {
+            "name": "Videos YouTube",
+            "dir_name": "video_youtube",
+            "module": false,
+            "import_file": null
+        }
+    ]
+}
