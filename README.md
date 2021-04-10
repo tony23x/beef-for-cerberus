@@ -7,7 +7,7 @@
 ![version]
 ![Tested]
 ![autor]
-![main]
+
 
 [![paga](https://img.shields.io/badge/Dona/Apoya-Aquí-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
