@@ -86,7 +86,7 @@
 
 ## Parrot Sec
 
-<img src="#" alt="PREVIEW"  align="center">
+<img src="https://user-images.githubusercontent.com/55555800/114283102-af3a0680-9a0d-11eb-8f93-8c5242a6b79b.png" alt="PREVIEW"  align="center">
 
 ## Termux
 
