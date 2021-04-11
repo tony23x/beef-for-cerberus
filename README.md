@@ -82,7 +82,7 @@
 
 ## Kali Linux
 
-<img src="https://user-images.githubusercontent.com/55555800/114278549-fe743d00-99f5-11eb-943a-0b1bf909298b.png" alt="PREVIEW"  align="center">
+<img src="https://user-images.githubusercontent.com/55555800/114313038-7d32ae00-9aba-11eb-802a-d31723d26984.png" alt="PREVIEW"  align="center">
 
 ## Parrot Sec
 
