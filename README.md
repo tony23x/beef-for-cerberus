@@ -90,7 +90,7 @@
 
 ## Termux
 
-<img src="#" alt="PREVIEW"  align="center">
+<img src="https://user-images.githubusercontent.com/55555800/114311206-63419d00-9ab3-11eb-815b-fadbca6a0765.jpg" alt="PREVIEW"  align="center">
 
 <hr>
 
