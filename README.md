@@ -14,9 +14,7 @@
 <h2 align="center"> Herramienta para automatizar BeEF fuera de LAN! </h3>
 
 <p align="center">
-
-  <a href="https://youtu.be/dt9-6fafywk" align="center">TUTORIAL</a>
-
+<a href="https://youtu.be/dt9-6fafywk" align="center">TUTORIAL</a>
 </p>
 
 * Beef For Cerberus es un script en python3 para sacar BeEF fuera de LAN y automatizar págs para enganchar víctimas de forma rápida 😈
