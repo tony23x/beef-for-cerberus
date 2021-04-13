@@ -86,6 +86,10 @@
 
 <img src="https://user-images.githubusercontent.com/55555800/114283102-af3a0680-9a0d-11eb-8f93-8c5242a6b79b.png" alt="PREVIEW"  align="center">
 
+## Arch Linux
+
+<img src="https://user-images.githubusercontent.com/55555800/114450968-4df46d80-9b9c-11eb-9ddf-b167f9824cf8.png" alt="PREVIEW"  align="center">
+
 ## Termux
 
 <img src="https://user-images.githubusercontent.com/55555800/114311206-63419d00-9ab3-11eb-815b-fadbca6a0765.jpg" alt="PREVIEW"  align="center">
