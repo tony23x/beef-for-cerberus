@@ -90,6 +90,10 @@
 
 <img src="https://user-images.githubusercontent.com/55555800/114450968-4df46d80-9b9c-11eb-9ddf-b167f9824cf8.png" alt="PREVIEW"  align="center">
 
+## Nethunter
+
+<img src="https://user-images.githubusercontent.com/55555800/114794275-b8024380-9d51-11eb-85cd-9cf3aa2806d7.jpg" alt="PREVIEW"  align="center">
+
 ## Termux
 
 <img src="https://user-images.githubusercontent.com/55555800/114311206-63419d00-9ab3-11eb-815b-fadbca6a0765.jpg" alt="PREVIEW"  align="center">
