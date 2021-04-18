@@ -1,8 +1,6 @@
 <h1 align="center"> <i> Beef For Cerberus </i> </h1>
-
-<p align="center"><img src="https://i.ibb.co/gdYnSx6/icon.png" alt="ICON" align="center" border="0" width="700" height="auto"></p>
-
-<br><hr>
+<p align="center"><img src="#" alt="ICON" align="center" border="0" width="700" height="auto"></p>
+<hr>
 
 ![version]
 ![Tested]
