@@ -19,7 +19,7 @@
 
 <hr>
 
-<h1><img src="https://i.ibb.co/8d71xfm/d92st7e-80156788-7d49-48e4-9cfe-8d7b63ce8b12.gif" width="80">Características:</h1>
+<h1><img src="https://i.ibb.co/8d71xfm/d92st7e-80156788-7d49-48e4-9cfe-8d7b63ce8b12.gif" width="90">Características:</h1>
 
  * <b>Funcionalidad</b>: 4 plantillas disponibles para mejores resultados
 
