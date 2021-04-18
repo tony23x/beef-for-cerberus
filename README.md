@@ -1,5 +1,5 @@
 <h1 align="center"> <i> Beef For Cerberus </i> </h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/55555800/115161220-04a39280-a062-11eb-8edc-b70d5cfed686.png" alt="ICON" align="center" border="0" width="700" height="auto"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55555800/115161538-f6567600-a063-11eb-8bd2-3d162e78ad89.png" alt="ICON" align="center" border="0" width="700" height="auto"></p>
 <hr>
 
 ![version]
