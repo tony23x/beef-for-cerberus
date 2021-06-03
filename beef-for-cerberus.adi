@@ -7,6 +7,7 @@ descrip = "Herramienta para automatizar BeEF fuera de LAN!"
 pagina = "https://github.com/tony23x/beef-for-cerberus"
 licensia = "Desconocida"
 dependencias = ["curl", "wget", "php", "openssh", "net-tools", "python3", "unzip", "ngrok"]
+cmd_depen = ["curl", "wget", "php", "ssh", "iptunnel", "python3", "unzip", "ngrok"]
 abi_dependencias = ["ngrok"]
 conflicto = "/usr/bin/cerberus.py"
 
