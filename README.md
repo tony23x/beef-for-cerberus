@@ -72,6 +72,14 @@
 
 ```
 
+## Apmpkg
+De igual manera lo puedes instalar con [apmpkg](https://github.com/kedap/apmpkg) con el siguiente comando:
+
+```sh
+
+    apmpkg instalar -u https://raw.githubusercontent.com/Kedap/beef-for-cerberus/main/beef-for-cerberus.adi
+```
+
 <hr>
 
 # Previews:
