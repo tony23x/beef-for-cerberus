@@ -9,7 +9,7 @@
 
 [![paga](https://img.shields.io/badge/Dona/Apoya-Aquí-green.svg)](https://www.paypal.me/th3pr3d4t0r)
 
-<h2 align="center"> Herramienta para automatizar BeEF fuera de LAN! </h3>
+<h2 align="center"> Herramienta para automatizar BeEF fuera de LAN! </h2>
 
 <p align="center">
 <a href="https://youtu.be/dt9-6fafywk" align="center">TUTORIAL</a>
@@ -44,7 +44,7 @@
 
 ```sh
 
-  git clone https://github.com/tony23x/beef-for-cerberus.git
+   git clone https://github.com/tony23x/beef-for-cerberus.git
 
 ```
 
